@@ -1,0 +1,48 @@
+.texto-principal {
+  margin-left: 2%;
+  font-size: 2em;
+  line-height: 2em;
+}
+.img-matchs-two-one {
+  width: 50px;
+  margin-right: 10%;
+}
+.DDI {
+  text-align: center;
+}
+
+.table-one {
+  margin-top: 3% !important;
+}
+.tbody-one {
+  border: 1px solid #dee2e6;
+}
+
+.img-matchs-two-one-two {
+  width: 60px;
+  border-radius: 50%;
+  margin-right: 10%;
+}
+
+.umTD {
+  margin-top: 10%;
+  color: #757575;
+}
+
+.umTD button {
+  background-color: #757575;
+  border-color: #757575;
+  border-radius: 10px;
+  margin-top: 15px;
+  padding: 10px 10px;
+  color: #ffffff;
+}
+
+.umTD button:hover {
+  background-color: #757575;
+  color: #ffffff;
+  border-color: #757575;
+}
+
+
+

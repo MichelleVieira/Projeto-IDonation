@@ -1,0 +1,136 @@
+.paragrafo-HD{
+    color: #E91E63;
+    margin: 20px;
+    font-weight: bold;
+}
+.paragrafo-HD:hover{
+    text-decoration: none;
+    color: #BDBDBD; 
+}
+
+
+.facaDoacao h2{
+    color: #E91E63;
+    margin: 70px 50px 10px 50px;
+}
+.facaDoacao img{
+    margin-top: -20px;
+    margin-bottom: 0;
+    width: 100%;
+    height: 597px;
+   
+}
+.btn-HD-one{
+    color: #FFFFFF; 
+    font-weight: bold;
+    font-family: cursive;
+    text-transform: uppercase;
+    padding: 15px 45px;
+    border-radius: 10px;
+    border-color: #E91E63;
+    background-color: #E91E63;
+    text-decoration: none;
+}
+.btn-HD-one:hover{
+    background-color: #F8BBD0; 
+    border-color: #F8BBD0;
+    text-decoration: none;
+}
+.hr-DH{
+    width: 90%;
+    margin-top: 60px;
+    border-color:  #BDBDBD;
+}
+.interessadosDoacao h3,
+.outrasAtividades h3{
+    text-align: center;
+    color: #E91E63;
+    font-weight: bold;
+}
+ .cards{
+    display: flex;
+    justify-content: center;
+    border-color: #BDBDBD; 
+} 
+.cards .cards-geral{
+    width: 20%;
+    height: 230px;
+    margin: 70px 20px;
+    border-color: #BDBDBD; 
+}
+.btn-cards{
+    padding: 10px 30px;
+    margin-left: 5%;
+    background-color: #E91E63;
+    border-radius: 5px;
+    color: #FFFFFF; 
+}
+.btn-cards:hover{
+    background-color: #F8BBD0;
+    border-color: #F8BBD0;
+}
+.btn-cards-one{
+    margin-left: 10%;
+}
+.btn-cards:hover{
+    text-decoration: none;
+    color: #FFFFFF; 
+}
+
+.calendar {
+    height: 120px;
+    background: url('../../template/assets/images/calendar.png') no-repeat center;
+}
+#instituicoesInteressadas {
+    width: 25%;
+    height: 70%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.fotoInstituicao {
+    height: 120px;
+    background: url('../../template/assets/images/teleton1.jpg') no-repeat center;
+    margin: 20% 0%;
+    padding: 26%;
+}
+.interessadosDoacao-card{
+    border-color: #BDBDBD; 
+}
+.interessadosDoacao-titulo{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+.btns-likes{
+    margin-left: 16%;
+    margin-bottom: 10%;
+}
+.img-funcinalidades{
+    width: 225px;
+}
+.img-funcinalidades-two{
+    width: 215px;
+    margin-left: 2%;
+}
+.img-funcinalidades-for{
+    width: 220px;
+    margin-left: 1%;
+}
+.facaDoacao-one{
+    margin-top: -35%;
+    text-align: center;
+
+}
+.facaDoacao-one h2{
+    font-size: 4em;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.funcionalidade-one{
+    margin-top: 24%;
+}

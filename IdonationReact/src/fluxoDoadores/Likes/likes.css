@@ -1,0 +1,150 @@
+.card-photo {
+  width: 15rem;
+  margin-left: 3%;
+  box-shadow: 1px 1px 5px 1px #ccc;
+}
+
+.geral-cards {
+  display: flex;
+  margin: 2% 7%;
+}
+
+.textos-principais h1 {
+  margin-top: 0;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  line-height: 2em;
+}
+.textos-principais p {
+  color: #000;
+  line-height: 2em;
+  margin-left: 1%;
+}
+
+.textos-principais p span {
+  font-weight: bold;
+}
+
+#logo-coracao {
+  height: 40px;
+  background: url("../../template/assets/images/logo-coracapo.png") no-repeat
+    center;
+}
+
+#nossoLar {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento.PNG") no-repeat center;
+}
+#nossoLar-dois {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento-two.PNG") no-repeat center;
+}
+#nossoLar-tres {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento-tree.PNG") no-repeat center;
+}
+#nossoLar-quatro {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento-for.PNG") no-repeat center;
+}
+#nossoLar-cinco {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento-five.PNG") no-repeat center;
+}
+#nossoLar-seis {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento-six.PNG") no-repeat center;
+}
+#nossoLar-sete {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento-seven.PNG") no-repeat center;
+}
+#nossoLar-oito {
+  width: 80%;
+  height: 170px;
+  margin: 0px 24px 0 24px;
+  background: url("../../img/acolhimento-eight.PNG") no-repeat center;
+}
+
+.card-text-title {
+  text-align: center;
+  font-weight: 100;
+}
+
+.btn-fd {
+  border: 1px solid #e91e63;
+  background-color: #e91e63;
+  color: #ffffff;
+  font-weight: bold;
+  width: 200px;
+}
+
+.btn-fd:hover {
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #f8bbd0;
+  border-color: #f8bbd0;
+}
+
+.btn-x {
+  margin-left: 15%;
+  color: #ffff;
+  background-color: rgb(247, 9, 9);
+  border-color: rgb(247, 9, 9);
+}
+
+.btn-x:hover {
+  color: #ffff;
+  background-color: rgba(247, 9, 9, 0.829);
+  border-color: rgba(247, 9, 9, 0.829);
+}
+
+.xis img {
+  width: 5%;
+  margin-left: 90%;
+  margin-top: 5%;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.modal-main {
+  position:fixed;
+  background: white;
+  width: 80%;
+  height: auto;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}

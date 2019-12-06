@@ -1,0 +1,46 @@
+.logout-div{
+    border: 3px solid #F8BBD0;
+    width: 40%;
+    margin: auto;
+    /* padding: 14%; */
+    margin-top: 9%;
+    
+}
+
+.texto-logout{
+    margin-left: 5%;
+    margin-bottom: 20%!important;
+    margin: auto;
+    width: 500px;
+}
+.texto-logout h3{
+    color:  #757575;
+    font-weight: bold;
+    
+}
+.texto-logout h6{
+    color: #9E9E9E;
+    margin-bottom: 30px;
+  
+}
+
+
+ .logoutImg{
+    width: 200px;
+} 
+
+.btn-login{
+    color: #FFFFFF;
+    border: 1px solid #F8BBD0;
+    background-color: #F8BBD0;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+    border-radius: 5px;
+    margin: 35%;
+}
+.btn-login:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #F8BBD0;
+}

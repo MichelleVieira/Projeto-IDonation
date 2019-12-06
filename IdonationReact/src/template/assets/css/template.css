@@ -1,0 +1,172 @@
+body {
+    font-family: sans-serif;
+}
+
+.cursorP {
+    cursor: pointer;
+}
+
+.btnBlue {
+    border: 0;
+    outline: none;
+    color: white;
+    font-size: 1.5em;
+    background: #0984E3;
+    border-radius: 100000px;
+}
+
+.btnOutline {
+    outline: none;
+    color: white;
+    background: none;
+    font-size: 1.5em;
+    border-radius: 100000px;
+    border: 2px solid white;
+}
+
+.itensHovered:hover {
+    cursor: pointer;
+    transition: .2s ease-in-out;
+    color: rgba(255, 255, 255, .6);
+    border: 1px solid rgba(255, 255, 255, .6);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.fRight {
+    float: right;
+}
+
+.boldBlue {
+    margin: 0;
+    color: #0984E3;
+    font-weight: bold;
+}
+
+/* caixinhas */
+section p{
+    color: #fff;
+    font-weight: 200;
+    font-size: 1.1em;
+    margin-top: 5%;
+}
+
+#doacoesCss{
+    width: 30%;
+    display: inline-block;
+    height: 195px;
+    margin: 0 0 0 5%;
+}
+
+#doacoesCss:first-child{
+    margin: 0;
+}
+
+
+.text-center{
+    color: #230C0F;
+}
+
+.Logo1{
+    height: 120px;
+    background: url('../images/donation.png') no-repeat center;
+
+}
+
+#espaco{
+    display: block;
+    float: left;
+    width: 65%;
+     /* display: flex; */
+}
+
+.btn-doacoes{
+    color: #230C0F;
+    background-color: #ffff;
+    border-color: #754963;
+    margin: 0 25px 25px;
+    display: block;
+    
+ 
+}   
+
+.btn-doacoes:hover{
+    background-color: #754963;
+    border-color: #754963;
+
+}
+
+.titulo1{
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+/* slider doadores */
+#espaco1{
+
+    justify-content: flex-end;
+  
+  
+
+  
+}
+#doacoesPublicadas{
+    align-self: flex-start;
+    width: 25%;
+    height: 70%;
+    margin-left: 70%;
+    top: 90;
+ 
+  
+}
+
+.fotoDoador{
+     height: 120px; 
+     background: url('../images/comida.png') no-repeat center; 
+     margin: 20% 0%; 
+     
+
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.btnAccept{
+  
+    padding: 12%;
+    background: url('../images/accept.png') no-repeat center;
+    border-color: #fff;
+
+}
+
+.btnCancel{
+
+    padding: 9%;
+    background: url('../images/cancel.png') no-repeat center;
+    border-color: #fff;
+
+}
+
+.btnBack{
+
+    padding: 9%;
+    background: url('../images/back-button.png') no-repeat center;
+    border-color: #fff;
+
+}
+
+.btnNext{
+
+    padding: 9%;
+    background: url('../images/next-button.png') no-repeat center;
+    border-color: #fff;
+
+}
+
+.btn a{
+    margin-left: 5%;
+}

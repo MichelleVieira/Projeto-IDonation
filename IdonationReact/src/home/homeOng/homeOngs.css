@@ -1,0 +1,104 @@
+.cards-geral-two {
+  width: 22%;
+  margin: 70px 20px;
+  border-color: #bdbdbd;
+}
+.paragrafo-HO {
+  color: #c2185b;
+  margin: 20px;
+  font-weight: bold;
+}
+.paragrafo-HO:hover {
+  text-decoration: none;
+  color: #9e9e9e;
+}
+
+.matches h2 {
+  color: #c2185b;
+  margin: 70px 50px 10px 50px;
+}
+.matches img {
+  border-radius: 10px;
+}
+
+.btn-HO {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: cursive;
+  text-transform: uppercase;
+  padding: 10px 40px;
+  border-radius: 10px;
+  border-color: #c2185b;
+  background-color: #c2185b;
+  text-decoration: none;
+}
+.btn-HO:hover {
+  background-color: #f8bbd0;
+  border-color: #f8bbd0;
+  text-decoration: none;
+}
+
+.sobreDoacoes h3 {
+  text-align: center;
+  color: #c2185b;
+  font-weight: bold;
+}
+
+.btn-cards-two {
+  padding: 10px 30px;
+  margin-left: 5%;
+  background-color: #c2185b;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.btn-cards-two:hover {
+  text-decoration: none;
+  background-color: #f8bbd0;
+  border-color: #f8bbd0;
+  color: #ffffff;
+}
+
+.img-sobreDoacoes {
+  width: 225px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.btn-cards-two-one {
+  padding: 10px 30px;
+  margin-left: 8%;
+  background-color: #c2185b;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.btn-cards-two-one:hover {
+  text-decoration: none;
+  background-color: #f8bbd0;
+  color: #ffffff;
+}
+
+.card-style-one {
+  margin-left: 11% !important;
+}
+
+.matches img {
+  margin-top: -20px;
+  margin-bottom: 0;
+  width: 100%;
+  height: 597px;
+}
+
+.matches h2 {
+  color: #e91e63;
+  margin: 70px 50px 10px 50px;
+}
+
+.matches-one {
+  margin-top: -35%;
+  text-align: center;
+}
+.matches-one h2 {
+  font-size: 4em;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-family: cursive;
+}

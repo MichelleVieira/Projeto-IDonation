@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+    min-height: 100%;
+}
+
+body {
+    background: #FFF;
+    background-size: cover;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+body,
+input,
+button {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.container {
+    /*margin: 0px auto 0;*/
+    /*max-width: 500px;*/
+    /*width: 100%;*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+}
+
+.content {
+    /*width: 360%;*/
+    /*background: #FFF;*/
+    /*border-radius: 4px;*/
+    /*padding: 10px;*/
+    /*box-shadow: 1px 1px 10px 2px #ccc;*/
+}
+
+.content>p {
+    font-size: 12px;
+    line-height: 10px;
+    margin-bottom: 10px;
+}
+
+.content form {
+    display: flex;
+    flex-direction: column;
+    padding-right: 100px;
+    /*margin-left: 400px;*/
+}
+
+.content form label {
+    font-size: 15px;
+    color: #666;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.content form label span {
+    font-weight: normal;
+    color: #999;
+    font-size: 12px;
+}
+
+.content form input {
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    height: 45px;
+    padding: 0 15px;
+    font-size: 15px;
+}
+
+
+.content button.btn {
+    border: 0;
+    border-radius: 31px;
+    width: 25%;
+    height: 46px;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #FEC74F;
+    color: #230C0f;
+    cursor: pointer;
+    margin-top: 0px;
+}
+
+.content form input:focus {
+    margin-bottom: 19px;
+    border: 1px solid #FEC74F;
+    border-radius: 1px;
+    height: 45px;
+    padding: 0 15px;
+    font-size: 15px;
+    box-shadow: none;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.textboxCadastro{
+
+}
+/*.content button.btn:hover {
+    background: #ccc;
+}*/

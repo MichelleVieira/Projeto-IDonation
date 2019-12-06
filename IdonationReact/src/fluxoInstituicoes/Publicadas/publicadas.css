@@ -1,0 +1,84 @@
+.publicacoes{
+    margin-top: 2%;
+    border: 1px solid #E91E63;
+}
+
+.publicacoes h3{
+    color:#E91E63;
+    font-size: 1em;
+}
+
+.umPerfil{
+    display: flex;
+}
+.umPerfil .eu{
+    margin-top: 2.5%;
+    margin-left: 1.1%;
+    color: #757575; 
+}
+.minhaFoto-style{
+    background-color: #212121;
+    padding: 5px;
+    margin-top: 2%;
+    border-radius: 20px;
+}
+
+.umaPublicacao{
+    border: 1px solid #BDBDBD;
+    height: 100px;
+}
+.umaPublicacao p{
+    margin-top: 1%;
+    margin-left: 1%;
+    color: #BDBDBD;
+}
+
+.btn-clique{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.btn-clique .span-like{
+    margin-right: 2%;
+    margin-top: 6px;
+    color: #757575;
+}
+.btn-clique button{
+    margin-right: 2%;
+    border-radius: 3px;
+    padding:  5px 10px;
+}
+
+.btn-clique-one{
+    color: #FFFFFF;
+    background-color: #E91E63;
+    border-color: #E91E63;
+}
+
+.btn-clique-one:hover{
+    color: #FFFFFF;
+    background-color: #F8BBD0; 
+    border-color: #F8BBD0;
+}
+
+.btn-clique-two{
+    color: #FFFFFF;
+    background-color: #F8BBD0;
+    border-color: #F8BBD0;
+}
+.btn-clique-two:hover{
+    color: #FFFFFF;
+}
+
+.more-style{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2%;
+    margin-right: 10%;
+}
+
+.more{
+    width: 25px;
+}

@@ -1,0 +1,96 @@
+.btn-fd-one {
+  border-radius: 10px;
+  padding: 10px 10px 10px;
+  border-color: #e91e63;
+  background-color: #e91e63;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 10px 30px 10px 30px;
+  font-weight: bold;
+  margin: 30px 0 0 0;
+}
+.btn-fd-for {
+  border-radius: 10px;
+  border-color: #f8bbd0;
+  color: #ffffff;
+  background-color: #f8bbd0;
+  cursor: pointer;
+  padding: 10px 30px 10px 30px;
+  font-weight: bold;
+  margin: 30px 0 0 30px;
+}
+.paragrafo-FD {
+  color: #e91e63;
+  font-weight: bold;
+  margin-left: -14px;
+}
+.paragrafo-FD:hover {
+  text-decoration: none;
+  color: #e91e63;
+}
+
+.fazerDoacao-geral {
+  margin-top: 30px;
+}
+
+.fazerDoacao-geral h1 {
+  font-size: 1.4em;
+  color: #e91e63;
+}
+.fazerDoacao-img {
+  margin: 60px 90px;
+  border-radius: 10px;
+}
+
+.form-FD {
+  margin: 5px 20px;
+}
+
+.btn-style {
+  display: flex;
+}
+
+textarea {
+  color: #bdbdbd;
+}
+
+input {
+  color: #212121;
+}
+
+.Umalabel {
+  margin-left: 2%;
+}
+
+.form-FD{
+  border: 1px solid #e91e63;
+  margin-top: 2%!important;
+  margin-bottom: 2%!important;
+  padding-bottom: 2%!important;
+  margin: 0 auto;
+  
+}
+
+
+.h1-fd {
+  font-size: 1.5em;
+  color: #e91e63;
+  font-weight: bold;
+}
+
+.style-text-FD{
+  color: #757575;
+}
+
+#nomeInstituicao{
+  width: 50%;
+}
+
+#destinado{
+  margin-left: 2%;
+}
+
+#destinado{
+  margin-left: 1%;
+}
+
